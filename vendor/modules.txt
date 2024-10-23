@@ -1,0 +1,22 @@
+# github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358
+## explicit
+github.com/Azure/go-ntlmssp
+# github.com/go-asn1-ber/asn1-ber v1.5.5
+## explicit; go 1.13
+github.com/go-asn1-ber/asn1-ber
+# github.com/go-ldap/ldap/v3 v3.4.8
+## explicit; go 1.14
+github.com/go-ldap/ldap/v3
+# github.com/google/uuid v1.6.0
+## explicit
+github.com/google/uuid
+# github.com/naoina/go-stringutil v0.1.0
+## explicit
+github.com/naoina/go-stringutil
+# github.com/naoina/toml v0.1.1
+## explicit
+github.com/naoina/toml
+github.com/naoina/toml/ast
+# golang.org/x/crypto v0.21.0
+## explicit; go 1.18
+golang.org/x/crypto/md4
